@@ -1,0 +1,12 @@
+Different types of methods
+
+- Methods overloading
+- Methods overriding
+- Methods with return values (primitives) 
+- Methods with No return values
+- Astract methods
+- static methods
+- final methods
+- methods with pass y value
+- methods with pass y reference
+- methods with arrays as parameters
