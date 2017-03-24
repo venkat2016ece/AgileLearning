@@ -1,0 +1,23 @@
+Different types of methods
+
+- Methods overloading
+- Methods overriding
+- Methods with return values (primitives) int/float/boolean/doule
+- Methods with No return values
+- Abstract methods
+- static methods
+- final methods
+- methods with pass by value
+- methods with pass by reference
+- methods with arrays as parameters
+
+=================================================
+
+examples for loops
+- if - else
+- while
+- do-while
+- switch
+- for
+- for-each
+- ternary
