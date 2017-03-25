@@ -1,0 +1,39 @@
+Primitive data types will be 8 types
+1.byte 
+2.short
+3.int
+4.long
+5.float
+6.double
+7.character
+8.boolean
+
+And this 8 primitive data types must be binded in to the objects.
+
+==>whenever you want to bind the primitive datatype into object we take the support of special classes avilable from java.lang package.
+
+
+==>the process of binding primitive data type into wrapper classes object we are calling it as "Boxing process"
+
+==>the process of taking primitive datatypes outof wrapper class object we are calling it as a "UN BOXING PROCESS"
+
+
+==>so whennever you want to pperform the boxing and unboxing process you must follow the hirarchy of the class.
+=================================================================================================
+DATA TYPE              WRAPPER CLASS                   CONSTRUCTOR
+--------                ------------                   -----------
+byte                    Byte                           byte,String
+short                   Short                          short,String
+int                     Integer                        int,String
+long                    Long                           long,String
+
+
+float                   Float                          float,double,String
+
+double                  Double                         double,String
+
+
+char                    Charater                       char
+
+
+boolean                 Boolean                        boolean,String.

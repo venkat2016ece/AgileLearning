@@ -1,0 +1,11 @@
+Programs with different types of classes
+
+- Immutable class:https://search.yahoo.com/search;_ylt=A0SO8woea9VYrSgA3dZXNyoA;_ylc=X1MDMjc2NjY3OQRfcgMyBGZyA3RpZ2h0cm9wZXRiBGdwcmlkA1ZLbVlTVUZuUVMyVlRLRl9Nb0F2SkEEbl9yc2x0AzAEbl9zdWdnAzYEb3JpZ2luA3NlYXJjaC55YWhvby5jb20EcG9zAzIEcHFzdHIDaW1tdXRhYmxlIGNsYXNzIGluIGphdmEEcHFzdHJsAzIzBHFzdHJsAzQ5BHF1ZXJ5A2hvdyUyMHRvJTIwY3JlYXRlJTIwaW1tdXRhYmxlJTIwY2xhc3MlMjBpbiUyMGphdmEEdF9zdG1wAzE0OTAzNTExMzYEdXNlX2Nhc2UD?p=how+to+create+immutable+class+in+java&fr2=sa-gp-search&fr=tightropetb&type=58425_021217
+- Static class
+- Super class & subclass
+- Abstract class
+- Final class
+- Anonymous class
+- Inner class
+- Wrapper class
+- Singleton class
