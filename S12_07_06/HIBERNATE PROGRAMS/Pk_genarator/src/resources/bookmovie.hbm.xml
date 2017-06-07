@@ -1,0 +1,15 @@
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class  name="beans.BookMovie" table="tbook"  schema="venkatdb">
+ <id name="id">
+ <generator class="assigned"></generator>
+ </id>
+<property name="movie"/>
+<property name="showtime"/>
+<property name="seatno"/>
+ 
+
+</class>
+</hibernate-mapping>
