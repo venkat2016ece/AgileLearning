@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+   
+   <head>
+      <title>Bootstrap 101 Template</title>
+      <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+      
+      <!-- Bootstrap -->
+      <link href = "css/bootstrap.min.css" rel = "stylesheet">
+      
+      <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+      
+      <!--[if lt IE 9]>
+      <script src = "https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src = "https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+      <![endif]-->
+      
+   </head>
+   
+   <body>
+   <form class = "form-horizontal" role = "form">
+
+   <div class = "form-group">
+      <label class = "col-sm-2 control-label">Focused</label>
+      
+      <div class = "col-sm-10">
+         <input class = "form-control" id = "focusedInput" type = "text" value = "This is focused...">
+      </div>
+   </div>
+   
+   <div class = "form-group">
+      <label for = "inputPassword" class = "col-sm-2 control-label">Disabled</label>
+      
+      <div class = "col-sm-10">
+         <input class = "form-control" id = "disabledInput" type = "text" placeholder = "Disabled input here..." disabled>
+      </div>
+   </div>
+   
+   <fieldset disabled>
+      <div class = "form-group">
+         
+         <label for = "disabledTextInput"  class = "col-sm-2 control-label">
+            Disabled input (Fieldset disabled)
+         </label>
+         
+         <div class = "col-sm-10">
+            <input type = "text" id = "disabledTextInput" class = "form-control" placeholder = "Disabled input">
+         </div>
+      </div>
+      
+      <div class = "form-group">
+         <label for = "disabledSelect"  class = "col-sm-2 control-label">
+            Disabled select menu (Fieldset disabled)
+         </label>
+         
+         <div class = "col-sm-10">
+            <select id = "disabledSelect" class = "form-control">
+               <option>Disabled select</option>
+            </select>
+         </div>
+         
+      </div>
+   </fieldset>
+   
+   <div class = "form-group has-success">
+      <label class = "col-sm-2 control-label" for = "inputSuccess">
+         Input with success
+      </label>
+      
+      <div class = "col-sm-10">
+         <input type = "text" class = "form-control" id = "inputSuccess">
+      </div>
+   </div>
+   
+   <div class = "form-group has-warning">
+      <label class = "col-sm-2 control-label" for = "inputWarning">
+         Input with warning
+      </label>
+      
+      <div class = "col-sm-10">
+         <input type = "text" class = "form-control" id = "inputWarning">
+      </div>
+   </div>
+   
+   <div class = "form-group has-error">
+      <label class = "col-sm-2 control-label" for = "inputError">
+         Input with error
+      </label>
+      
+      <div class = "col-sm-10">
+         <input type = "text" class = "form-control" id = "inputError">
+      </div>
+      
+   </div>
+	
+</form>
+       
+
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src = "https://code.jquery.com/jquery.js"></script>
+      
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src = "js/bootstrap.min.js"></script>
+      
+   </body>
+</html>
