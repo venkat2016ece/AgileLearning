@@ -1,0 +1,7 @@
+com\myorg\model\User.class
+com\myorg\service\UserService.class
+com\myorg\config\HelloWorldInit.class
+com\myorg\model\Message.class
+com\myorg\controller\HelloWorldRestController.class
+com\myorg\controller\UserRestController.class
+com\myorg\config\HelloWorldConfig.class
